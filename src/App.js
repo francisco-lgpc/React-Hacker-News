@@ -5,7 +5,7 @@ import { User } from './user.js';
 
 class App extends Component {
   render() {
-    const user = new User("Francisco", "PC");
+    const user = new User("Francisc", "PC");
     const helloWorld = "Welcome to the Road to learn React";
     return (
       <div className="App">
